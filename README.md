@@ -1,4 +1,4 @@
-# Desafío DentiDesk - Admostrador Ingresos y Egresos
+# Desafío DentiDesk - Administrador Ingresos y Egresos
 
 Laravel Framework 9.6.0
 PHP 8.1.3
